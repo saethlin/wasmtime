@@ -1,2 +1,1 @@
-mod opts { include!("opts.rs"); }
-//mod opts;
+mod opts;
